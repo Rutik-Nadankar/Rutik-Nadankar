@@ -33,6 +33,7 @@ I build practical machine-learning and AI applications, from data-driven analysi
 ## Profile
 
 - GitHub: [@Rutik-Nadankar](https://github.com/Rutik-Nadankar)
+- Linkdin: [@Rutik-Nadankar](https://www.linkedin.com/in/rutik-nadankar-898703239/)
 - Resume repository: [Resume](https://github.com/Rutik-Nadankar/Resume)
 
 ## Contribution graph
